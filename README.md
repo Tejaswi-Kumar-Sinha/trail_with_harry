@@ -48,4 +48,5 @@ This is just the beginning of my journey into programming and software developme
 
 More files, programs, and projects will be added as I continue learning.
 
-Made with ❤️ while learning GitHub and programming.
+-- Made with ❤️ while learning GitHub and programming --
+
